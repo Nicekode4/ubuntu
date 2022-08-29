@@ -1,0 +1,41 @@
+//Generelt
+på alle sider skal der være en footer og nav menu
+
+HTML:
+nav menu skal være et header tag med en nav menu indeni med 3 items (Forside, program og tilmelding).
+
+JS:
+Ingen JS behøves her.
+
+//Landing page
+Når man kommer ind på siden skal man komme ind på landingpage. her finder man en tilmeldings call to action button der sender en til en tilmeldings side. nedenunder findes der 8 bokse hvor der skal være 8 nyheder med 4 i hver boks. nedenunder det skal der være en interest form med navn og email. under det skal der være IOT DESKTOP icon links
+
+HTML:
+på siden skal der være 4 sektioner. på nummer 1 skal der være tilmelding. denne sektion skal have et bg billede. på sektion nunmmer 2, skal der indeni være 2 artikler med 4 nyheder i hver. på sektion nummer 3, skal der være en interest form med et text input og et email input. i sektion nunmmer 4, skal der kun være et par ikoner som også er links.
+
+JS:
+Sektion nummer 3 skal valideres.
+
+//Tilmeldings siden
+på tilmeldings siden skal man kunne tilmelde sig konferancen med navn, addresse, land, email og hoved interesse som desktop eller iot. nedenunder skal der være IOT desktop icon links.
+
+HTML:
+på siden skal der være form med 3 text inputs, 1 email input og et par checkboxes
+
+JS:
+Formen skal valideres
+
+//Program siden
+på program siden skal der være 2 sektioner med iot og desktop i hver sin, sorteret kronoloisk på dag og tider. 
+
+HTML:
+
+JS:
+
+//Event info siden
+på event info siden skal der være en subject headline og billede i toppen under nav menuen. under skal der være subject text. under det skal der være info text om speaker med et speaker billede ved siden af. alt dette skal laves dynamisk ved et klik på et event/speaker på program siden.
+
+HTML:
+
+JS:
+
