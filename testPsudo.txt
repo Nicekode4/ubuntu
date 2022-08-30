@@ -1,0 +1,11 @@
+This function tests whatever a number is even or odd.
+
+function evenOrOdd
+    //get value from number input
+    //see if value ends with 1,3,5,7,9 before the point (.)
+    //if true
+        show alert with text: Number is odd
+    //if false
+        show alert with text: Number is even
+
+        
