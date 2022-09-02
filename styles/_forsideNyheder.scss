@@ -1,3 +1,16 @@
 #nyheder{
     background-color: aqua;
+    padding: 2vh;
+    
+    article{
+        padding: 1vw;
+        background-color: white;
+        display: flex;
+        p{
+            margin: 1vh
+        }
+    }
+    article:first-of-type{
+        margin-bottom: 1vh;
+    }
 }

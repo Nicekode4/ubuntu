@@ -1,17 +1,32 @@
 #icons {
   background-color: orchid;
+  height: 20vh;
 }
 
 #interestForm {
   background-color: orange;
+  height: 10vh;
 }
 
 #nyheder {
   background-color: aqua;
+  padding: 2vh;
+}
+#nyheder article {
+  padding: 1vw;
+  background-color: white;
+  display: flex;
+}
+#nyheder article p {
+  margin: 1vh;
+}
+#nyheder article:first-of-type {
+  margin-bottom: 1vh;
 }
 
 #tilmeld {
   background-color: red;
+  height: 20vh;
 }
 
 header {
