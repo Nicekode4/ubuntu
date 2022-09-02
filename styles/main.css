@@ -1,5 +1,5 @@
 #icons {
-  background-color: orchid;
+  background-color: black;
   height: 20vh;
 }
 
@@ -27,6 +27,16 @@
 #tilmeld {
   background-color: red;
   height: 20vh;
+}
+
+#tilmelding {
+  background-color: orchid;
+}
+#tilmelding input {
+  display: block;
+}
+#tilmelding label {
+  display: block;
 }
 
 header {
